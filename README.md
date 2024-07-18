@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Pasha</h1>
-<h3 align="center">A passionate Android developer and CSE student from Bangalore, India</h3>
+<h3 align="center">A passionate Computer Science Engineering student from Bangalore, India, dedicated to creating innovative solutions and continuously expanding knowledge in the field of technology.
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-pasha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-pasha" />
 </p>
