@@ -6,6 +6,7 @@
 </p>
 🔭 I’m currently working on JARVIS
 🌱 I’m currently learning React.JS, Machine Learning, and Django
+- 💬 Ask me about **💬 Ask me about Python, Flask, Dango Rest Framework, Full Stack Web Development, APIs, Selenium, Automation, and probably any task on the web!**
 📫 How to reach me: ahmedrys007@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
