@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ahmed Pasha</h1>
-<h3 align="center">A passionate Computer Science Engineering student from Bangalore, India, dedicated to creating innovative solutions and continuously expanding knowledge in the field of technology.
+<h3 align="center">
+  A passionate Computer Science Engineering student from Bangalore, India, dedicated to creating innovative solutions and continuously expanding knowledge in the field of technology.
 </h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-pasha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-pasha" />
 </p>
-🔭 I’m currently working on JARVIS
-🌱 I’m currently learning React.JS, Machine Learning, and Django
-- 💬 Ask me about **💬 Ask me about Python, Flask, Dango Rest Framework, Full Stack Web Development, APIs, Selenium, Automation, and probably any task on the web!**
-📫 How to reach me: ahmedrys007@gmail.com
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="center">
+  🔭 I’m currently working on <strong>JARVIS</strong><br/>
+  🌱 I’m currently learning <strong>React.JS, Machine Learning, and Django</strong><br/>
+  💬 Ask me about <strong>Python, Flask, Django Rest Framework, Full Stack Web Development, APIs, Selenium, Automation, and probably any task on the web!</strong><br/>
+  📫 How to reach me: <strong>ahmedrys007@gmail.com</strong>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/ahmed-pasha070" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-pasha070" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
