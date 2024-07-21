@@ -24,6 +24,13 @@
   </a>
 </p>
 
+<div align="center">
+
+  ![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
