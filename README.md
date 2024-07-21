@@ -1,32 +1,35 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 </h2>
 <h1>Hi 👋, I'm Ahmed Pasha</h1>
 <h3>
   A passionate Computer Science Engineering student from Bangalore, India, dedicated to creating innovative solutions and continuously expanding knowledge in the field of technology.
 </h3>
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ahmed-pasha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed-pasha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-pasha" />
 </p>
-<img align="right" width="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animation" />
-🔭 I’m currently working on JARVIS
-🌱 I’m currently learning React.js, Machine Learning, and Django
-💬 Ask me about Python, Flask, Django Rest Framework, Full Stack Web Development, APIs, Selenium, Automation, and web development tasks
-📫 How to reach me: ahmedrys007@gmail.com
-<h3>Connect with me:</h3>
+  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+
+- 🔭 I’m currently working on **JARVIS**
+- 🌱 I’m currently learning **React.JS, Machine Learning, and Django**
+- 💬 Ask me about **Python, Flask, Django Rest Framework, Full Stack Web Development, APIs, Selenium, Automation, and probably any task on the web!**
+- 📫 How to reach me: **ahmedrys007@gmail.com**
+
+<h3><p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fe9e5a0d-e48a-4fac-ba66-d6d99c368d54"></p>
+<br></h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ahmed-pasha070" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="LinkedIn" height="50" title="LinkedIn"></a>
+ <a href="https://linkedin.com/in/ahmed-pasha070" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="Linkdin" height="50" title="linkdin"></a>
   <a href="mailto:ahmedrys007@gmail.com" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail"></a>
-  <a href="#"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter"></a>
-  <a href="https://www.instagram.com/ehmed_raisi_?igshid=MTI4YzZiZ295b2dnYQ==" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
-</p>
+  <a href="#" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter"></a>
+ <a href="https://www.instagram.com/ehmed_raisi_?igsh=MTI4YzZiZ295b2dnYQ==" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
 <div align="center">
-  ![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
-<h3>Technologies & Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="26px" />
+
+<img width="137" alt="Frame 22" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
+<br><br>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="26px" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="26px" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="26px" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="26px" />
