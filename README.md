@@ -23,6 +23,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-pasha070" height="30" width="40" />
   </a>
 </p>
+<p>
+  <a href="https://linkedin.com/in/ahmed-pasha070" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="ahmed-pasha070" height="30" width="40" />
+  </a>
+</p>
 
 <div align="center">
 
