@@ -10,6 +10,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=ahmed-pasha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-pasha" />
 </p>
+  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
 - 🔭 I’m currently working on **JARVIS**
 - 🌱 I’m currently learning **React.JS, Machine Learning, and Django**
